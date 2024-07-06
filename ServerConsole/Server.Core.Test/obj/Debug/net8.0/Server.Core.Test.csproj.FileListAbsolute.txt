@@ -1,0 +1,11 @@
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\bin\Debug\net8.0\Server.Core.Test.deps.json
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\bin\Debug\net8.0\Server.Core.Test.dll
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\bin\Debug\net8.0\Server.Core.Test.pdb
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.dll
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\refint\Server.Core.Test.dll
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\Server.Core.Test.pdb
+C:\Users\matte\OneDrive\Bureau\git\Server-C-\ServerConsole\Server.Core.Test\obj\Debug\net8.0\ref\Server.Core.Test.dll
